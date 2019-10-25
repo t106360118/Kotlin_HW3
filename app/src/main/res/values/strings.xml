@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_HW3</string>
+    <string name="diaplayDialog">顯示Dialog</string>
+    <string name="toast">自定義的Toast</string>
+</resources>
